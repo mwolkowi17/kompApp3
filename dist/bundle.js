@@ -37,7 +37,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"ikonyglowne\": () => (/* binding */ ikonyglowne)\n/* harmony export */ });\nconst ikonyglowne = {\r\n    first: \"./images/postawy_cz1.png\",\r\n    firtscliced: \"./images/bullying_cz1clicked.png\",\r\n    second: \"./images/postawy_cz2.png\",\r\n    secondcliced: \"./images/bullying_cz2clicked.png\",\r\n    third: \"./images/postawy_cz3.png\",\r\n    thirdcliced: \"./images/bullying_cz3clicked.png\",\r\n    home:\"./images/home.png\",\r\n    homeclicked:\"./images/home_clicked.png\"\r\n}\n\n//# sourceURL=webpack://komapp3/./src/icons.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"ikonyglowne\": () => (/* binding */ ikonyglowne)\n/* harmony export */ });\nconst ikonyglowne = {\r\n    first: \"./images/postawy_cz1.png\",\r\n    firtscliced: \"./images/postawy_cz1clicked.png\",\r\n    second: \"./images/postawy_cz2.png\",\r\n    secondcliced: \"./images/postawy_cz2clicked.png\",\r\n    third: \"./images/postawy_cz3.png\",\r\n    thirdcliced: \"./images/postawy_cz3clicked.png\",\r\n    home:\"./images/home.png\",\r\n    homeclicked:\"./images/home_clicked.png\"\r\n}\n\n//# sourceURL=webpack://komapp3/./src/icons.js?");
 
 /***/ }),
 
