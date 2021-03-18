@@ -1,10 +1,10 @@
 export const planszeA=[
-    "./images/wstepne1_BULLYING.png",
-    "./images/wstepne2_BULLYING.png",
-    "./images/wstepne3_BULLYING.png",
-    "./images/wstepne4_BULLYING.png",
-    "./images/wstepne5_BULLYING.png",
-    "./images/wstepne6_BULLYING.png",
-    "./images/wstepne7_BULLYING.png",
-    "./images/wstepne8_BULLYING.png",
+    "./images/wstepne1_POSTAWY.png",
+    "./images/wstepne2_POSTAWY.png",
+    "./images/wstepne3_POSTAWY.png",
+    "./images/wstepne4_POSTAWY.png",
+    "./images/wstepne5_POSTAWY.png",
+    "./images/wstepne6_POSTAWY.png",
+    "./images/wstepne7_POSTAWY.png",
+    
 ]

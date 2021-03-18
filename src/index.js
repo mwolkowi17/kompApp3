@@ -100,11 +100,11 @@ var app = new Vue({
     btnforA: function () {
       this.licznik.planszeAlicz++;
       this.appbackground.src = planszeA[this.licznik.planszeAlicz];
-      if (this.licznik.planszeAlicz === 8) {
+      if (this.licznik.planszeAlicz === 7) {
         this.appbackground.src = backgrounds[1];
         this.video.seen = true;
       }
-      if (this.licznik.planszeAlicz === 9) {
+      if (this.licznik.planszeAlicz === 8) {
         this.licznik.planszeAlicz = 0;
         this.video.seen = false;
         this.appbackground.src = backgrounds[0];
@@ -149,7 +149,7 @@ var app = new Vue({
         this.appbackground.src = planszeB[0];
       }
 
-      if (this.licznik.planszeBlicz === 1) {
+      if (this.licznik.planszeBlicz === 6) {
         this.licznik.planszeBlicz = 0;
         this.appbackground.src = backgrounds[0];
         this.ikon1.seen = true;
