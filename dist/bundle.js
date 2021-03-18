@@ -26,7 +26,7 @@ eval("/*!\n * Vue.js v2.6.12\n * (c) 2014-2020 Evan You\n * Released under the M
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"backgrounds\": () => (/* binding */ backgrounds)\n/* harmony export */ });\nconst backgrounds=[\r\n    \"./images/PLANSZA_GLOWNA_POSTAWY.png\",\r\n    \"./images/PLANSZA_FILM_BULLYING.png\"\r\n\r\n]\n\n//# sourceURL=webpack://komapp3/./src/backgroundData.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"backgrounds\": () => (/* binding */ backgrounds)\n/* harmony export */ });\nconst backgrounds=[\r\n    \"./images/PLANSZA_GLOWNA_POSTAWY.png\",\r\n    \"./images/PLANSZA_FILM_POSTAWY.png\"\r\n\r\n]\n\n//# sourceURL=webpack://komapp3/./src/backgroundData.js?");
 
 /***/ }),
 
